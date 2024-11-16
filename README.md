@@ -1,0 +1,1 @@
+System Parasec is a informative tool that shows the current proccesses opened networking users admin prviliges and more that can be runned on a machine with not less than 3 mb of memory fully opensourced
